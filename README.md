@@ -39,3 +39,42 @@ MedLife/
 ├── server1.py
 ├── UI.html
 ├── FILES/
+
+## Installation
+
+Clone the repository
+```bash
+git clone https://github.com/YOUR-USERNAME/MedLife-AI-Based-Personalized-Health-Support-System.git
+cd MedLife-AI-Based-Personalized-Health-Support-System
+pip install flask flask-cors ollama duckduckgo-search pillow pyngrok
+```
+```
+
+## How to Run
+
+### Start the Flask server
+
+```bash
+python server1.py
+```
+
+### Open the generated ngrok or localhost URL in browser
+
+### Interact with the AI health support chatbot
+
+## Dependencies
+- Flask
+- Flask-CORS
+- Ollama
+- DuckDuckGo Search
+- Pillow
+- Pyngrok
+
+
+- ## Future Improvements
+- Advanced AI health recommendations
+- Real-time doctor consultation integration
+- Voice-based interaction
+- Improved wound detection system
+- Multi-language support
+- Enhanced UI/UX design
