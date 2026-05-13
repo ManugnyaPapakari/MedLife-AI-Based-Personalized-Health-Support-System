@@ -1,4 +1,10 @@
+# Project Screenshots
+## Homepage
+![Homepage](medlife-homepage.jpeg)
+## Chatbot Demo
+![Chatbot Demo](medlife-chat-demo.png)
 # MedLife: AI-Based Personalized Health Support System
+
 
 ## Overview
 MedLife is an AI-powered personalized health support system designed to provide conversational emotional support and basic health guidance using NLP and Flask.
